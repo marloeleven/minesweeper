@@ -1,0 +1,18 @@
+{
+  "globals": {
+    "jQuery": true,
+    "$": true
+  },
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "rules": {
+    "no-var": [2],
+    "no-alert": [2],
+    "no-else-return": [2],
+    "no-empty-function": [2],
+    "no-invalid-this": [2],
+    "np-loop-func": [2]
+  }
+}
